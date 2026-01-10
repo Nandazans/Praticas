@@ -1,4 +1,4 @@
-readm.md
+README.md
 # Support Knowledge Base
 
 Este repositório reúne documentação técnica, procedimentos e guias de troubleshooting utilizados em rotinas de Suporte Técnico (N1 e N2).

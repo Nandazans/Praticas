@@ -1,0 +1,9 @@
+chamado_id,sistema_id,categoria,prioridade,status,data_abertura,data_fechamento
+1001,1,Acesso,Media,Resolvido,2026-10-01 08:15:00,2026-10-01 09:00:00
+1002,2,Erro de consulta,Alta,Em atendimento,2026-10-01 09:10:00,
+1003,3,Transacao rejeitada,Alta,Escalado,2026-10-01 09:30:00,
+1004,1,Lentidao,Baixa,Resolvido,2026-10-01 10:00:00,2026-10-01 12:30:00
+1005,2,Acesso,Media,Aberto,2026-10-02 08:45:00,
+1006,3,Falha de comunicacao,Alta,Resolvido,2026-10-02 11:20:00,2026-10-02 12:05:00
+1007,1,Erro de consulta,Media,Em atendimento,2026-10-03 14:00:00,
+1008,3,Transacao rejeitada,Alta,Resolvido,2026-10-03 15:10:00,2026-10-03 15:40:00
